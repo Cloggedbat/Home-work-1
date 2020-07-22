@@ -6,8 +6,9 @@
 }
 
 body {
-    background-color: #d9dcd6;
-    
+    background-color: purple;
+    border-radius: 15px;
+
 }
 
 .header {
@@ -83,13 +84,11 @@ p {
     border-radius: 15px;
 }
 
-
+/* combinded 3 lines of code into one  */
 .benefit-lead,.benefit-cost,.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-
 /* there were 2 elements doing the the same job so I took one out and added a text align in the .benefits*/
 
 .benefit-cost h3 {
@@ -98,12 +97,12 @@ p {
 }
 
 
-/* softened the edges and combinded these elements */
+/* softened the edges and combinded these elements and combinced 3 lines of code and added "" to calibri*/
 .search-engine-optimization,.social-media-marketing,.online-reputation-management  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
     border-radius: 15px;
