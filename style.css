@@ -20,7 +20,7 @@ body {
 }
 
 .header h1 {
-    display: inline-block-flex;
+    display: inline-block;
     font-size: 48px;
 }
 
